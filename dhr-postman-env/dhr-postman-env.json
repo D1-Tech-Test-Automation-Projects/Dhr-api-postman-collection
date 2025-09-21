@@ -1,0 +1,21 @@
+{
+	"id": "67490a05-ba43-4a05-8a7f-bb7c064dbd86",
+	"name": "DHR Test",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://dhrtest.d1-tech.com.tr",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "authToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-09-21T09:20:56.550Z",
+	"_postman_exported_using": "Postman/11.20.0"
+}
